@@ -1,6 +1,6 @@
 package com.example.sandanter.DIO.service;
 
-import model.Usuario;
+import com.example.sandanter.DIO.model.Usuario;
 
 public interface UserService {
 	public Usuario findById(Long id);

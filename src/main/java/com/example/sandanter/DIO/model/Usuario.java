@@ -1,4 +1,4 @@
-package model;
+package com.example.sandanter.DIO.model;
 
 import java.util.List;
 
